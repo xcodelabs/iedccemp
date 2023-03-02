@@ -84730,7 +84730,7 @@ A.pz(q)
 $.aJL.b=A.aYx(new A.ape().alj(A.fj(A.aM(q.buffer,q.byteOffset,q.byteLength),0,null,0),null,!1))
 return A.Y(null,r)}})
 return A.Z($async$B1,r)},
-V(a5){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=null,d=4280231727,c="TECHNURA",b=A.ee(e,e,20),a=A.ee(A.aaW(B.PW,e,30),30,40),a0=A.ee(e,e,15),a1=A.cI(0,200),a2=A.aK([B.Pz,new A.ff("9c71a665e0a2e7f258d67170c1a0fd6b9f0fffd812672a8f9e4a4fdb72978f54",114468),B.PB,new A.ff("c07d3baa06bab48792c91759b27518f6ce25935caf229e36fd9771e6b8301cde",115200),B.PD,new A.ff("0a531e9370331425c6b1275d46ac47133cb8a1d5e071b4d8c0231f126c04dc76",115136),B.PF,new A.ff("fbdd40d0cd7e8ce366c270a92ba5ed2014deed8742e7d67146a9305166c4f8f4",115124),B.PH,new A.ff("42095c24483569a412ba599b1b68a75ce8fd9cf1e558e34bf5747e648f241f15",115048),B.PJ,new A.ff("051bfc3d04111a5eab848f3914911e8d15de0432be03ee54658e20a09d605010",114912),B.PL,new A.ff("d1e49376add5588413d20d35ef3e9a484078eab0d9353e13adc3b81896922e8d",114668),B.PA,new A.ff("e90e97b66e811df3962be3e3cc057edd5a449db6dc902a46fabf117c22ac3d13",113172),B.PC,new A.ff("0ba70b831db78977c666fabd0a9c43da009d7d5f96566cd0694d1a694aded617",113492),B.PE,new A.ff("db129d56d2a1587cd75975e2b38c512111ab6e0346cd8436a25a7ae26bed3cb5",113600),B.PG,new A.ff("7b0cea1d87525a31f978a04c545fdeb1ae5c46b22745c200d418a7dda1c2bbeb",113640),B.PI,new A.ff("8962de86e02db0ae9c801b0797d619a4651362efe5a5254e9a6375a82ff565cb",113516),B.PK,new A.ff("8a64cb8a52901b1ba6755d6825c2635f562fe0c4ffbca390452205153e306919",113612),B.PM,new A.ff("16754d565eaf16d5264535ac12e29e2e5aeca61338aae3a374543cc3d95f6986",113372)],t.gm,t.Ks),a3=B.Jl.akH(e,e,new A.K(d),e,e,e,e,e,26,e,B.a2,e,e,e,e,e,e,e),a4=a3.w
+V(a5){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=null,d=4280231727,c="TECHNAURA",b=A.ee(e,e,20),a=A.ee(A.aaW(B.PW,e,30),30,40),a0=A.ee(e,e,15),a1=A.cI(0,200),a2=A.aK([B.Pz,new A.ff("9c71a665e0a2e7f258d67170c1a0fd6b9f0fffd812672a8f9e4a4fdb72978f54",114468),B.PB,new A.ff("c07d3baa06bab48792c91759b27518f6ce25935caf229e36fd9771e6b8301cde",115200),B.PD,new A.ff("0a531e9370331425c6b1275d46ac47133cb8a1d5e071b4d8c0231f126c04dc76",115136),B.PF,new A.ff("fbdd40d0cd7e8ce366c270a92ba5ed2014deed8742e7d67146a9305166c4f8f4",115124),B.PH,new A.ff("42095c24483569a412ba599b1b68a75ce8fd9cf1e558e34bf5747e648f241f15",115048),B.PJ,new A.ff("051bfc3d04111a5eab848f3914911e8d15de0432be03ee54658e20a09d605010",114912),B.PL,new A.ff("d1e49376add5588413d20d35ef3e9a484078eab0d9353e13adc3b81896922e8d",114668),B.PA,new A.ff("e90e97b66e811df3962be3e3cc057edd5a449db6dc902a46fabf117c22ac3d13",113172),B.PC,new A.ff("0ba70b831db78977c666fabd0a9c43da009d7d5f96566cd0694d1a694aded617",113492),B.PE,new A.ff("db129d56d2a1587cd75975e2b38c512111ab6e0346cd8436a25a7ae26bed3cb5",113600),B.PG,new A.ff("7b0cea1d87525a31f978a04c545fdeb1ae5c46b22745c200d418a7dda1c2bbeb",113640),B.PI,new A.ff("8962de86e02db0ae9c801b0797d619a4651362efe5a5254e9a6375a82ff565cb",113516),B.PK,new A.ff("8a64cb8a52901b1ba6755d6825c2635f562fe0c4ffbca390452205153e306919",113612),B.PM,new A.ff("16754d565eaf16d5264535ac12e29e2e5aeca61338aae3a374543cc3d95f6986",113372)],t.gm,t.Ks),a3=B.Jl.akH(e,e,new A.K(d),e,e,e,e,e,26,e,B.a2,e,e,e,e,e,e,e),a4=a3.w
 if(a4==null)a4=B.A
 s=A.aXn(new A.f_(a4,B.cf),new A.b5(a2,A.k(a2).i("b5<1>")))
 a4=a2.h(0,s)
@@ -84774,16 +84774,16 @@ g=A.ee(e,20,e)
 f=A.co(e,e,B.C,e,e,e,e,e,e,e,e,11,e,e,B.A,e,e,!0,e,e,e,e,e,e,e,e)
 return A.aHf(A.aHg(A.ds(e,new A.Sy(A.M_(A.a([r,A.ds(e,A.M_(A.a([a1,a,b,p,o,n,m,l,k,j,i,h,g,A.ds(e,A.m6(!1,e,!0,A.RY(e,e,B.c3,e,e,!0,e,A.cx(A.a([A.cx(e,e,"If you facing any issue with certifcate,"),A.cx(e,A.co(e,e,B.n1,e,B.fr,e,e,e,e,e,e,e,e,e,e,e,e,!0,e,e,e,e,e,e,e,e)," Click here")],a0),f,e),B.cu,e,e,1,B.b4),e,!0,e,e,e,e,e,e,e,e,e,new A.awQ(),e,e,e,e),e,e,e,e,new A.b2(15,0,15,0),e,1/0)],q),B.bw,B.cU,B.cV,B.bp),e,e,new A.dO(B.m,e,e,a4,e,e,B.ax),340,new A.b2(12,12,12,12),new A.b2(12,12,12,12),1/0),A.ee(e,100,e),A.ds(e,new A.j4(B.d8,e,B.cs,B.a9,A.a([A.jY(e,A.ej("About",e,e,e,A.co(e,e,B.m,e,e,e,e,e,e,e,e,18,e,e,B.a2,e,e,!0,e,e,e,e,e,e,e,e),e,e),e,e,20,e,30,e),A.jY(e,A.m6(!1,e,!0,A.ej("Technaura",e,e,e,A.co(e,e,B.dh,e,e,e,e,e,e,e,e,13,e,e,B.a2,e,e,!0,e,e,e,e,e,e,e,e),e,e),e,!0,e,e,e,e,e,e,e,e,e,new A.awR(),e,e,e,e),e,e,20,e,60,e),A.jY(e,A.m6(!1,e,!0,A.ej("College of Engineering and Management Punnapra",e,e,e,A.co(e,e,B.dh,e,e,e,e,e,e,e,e,13,e,e,B.a2,e,e,!0,e,e,e,e,e,e,e,e),e,e),e,!0,e,e,e,e,e,e,e,e,e,new A.awS(),e,e,e,e),e,e,20,e,80,e),A.jY(e,A.m6(!1,e,!0,A.ej("Join as Innovator",e,e,e,A.co(e,e,B.dh,e,e,e,e,e,e,e,e,13,e,e,B.a2,e,e,!0,e,e,e,e,e,e,e,e),e,e),e,!0,e,e,e,e,e,e,e,e,e,new A.awT(),e,e,e,e),e,e,20,e,100,e),A.jY(e,A.ej("kerala Startup Mission",e,e,e,A.co(e,e,B.dh,e,e,e,e,e,e,e,e,13,e,e,B.a2,e,e,!0,e,e,e,e,e,e,e,e),e,e),e,e,20,e,120,e),A.jY(e,A.ej("Technaura \xa9 2023 , XCODELABS",e,e,e,A.co(e,e,B.dh,e,e,e,e,e,e,e,e,13,e,e,B.a2,e,e,!0,e,e,e,e,e,e,e,e),B.cu,e),e,e,20,20,165,e),A.jY(e,A.m6(!1,e,!0,A.ej("Developer",e,e,e,A.co(e,e,B.dh,e,e,e,e,e,e,e,e,13,e,e,B.a2,e,e,!0,e,e,e,e,e,e,e,e),B.cu,e),e,!0,e,e,e,e,e,e,e,e,e,new A.awU(),e,e,e,e),e,e,20,20,182,e)],q),e),B.tH,e,e,250,e,e,1/0)],q),B.bw,B.cU,B.cV,B.bp),e),new A.K(d),e,e,1/0,e,e,e)),!0)}}
 A.awP.prototype={
-$0(){var s,r,q,p,o,n,m,l,k="Responses",j={}
+$0(){var s,r,q,p,o,n,m,l,k={}
 if($.azo().a.a===""){s=this.a
 s.aC(new A.awM(s))
 return}s=$.aJL.b3()
-s.tA(k)
+s.tA("Sheet1")
 s=s.x
 s===$&&A.b()
-s=s.h(0,k)
+s=s.h(0,"Sheet1")
 s.toString
-j.a="Invalid Number"
+k.a="Invalid Number"
 for(r=1;r<190;++r){q=""+r
 p=A.a2H("E"+q)
 o=p[0]
@@ -84810,9 +84810,9 @@ o.xU()
 o.xz(q)
 q=l.b
 q===$&&A.b()
-j.a=A.d(q)
+k.a=A.d(q)
 break}}s=this.a
-s.aC(new A.awO(j,s))},
+s.aC(new A.awO(k,s))},
 $S:0}
 A.awM.prototype={
 $0(){this.a.d="Please fill your mobile number"},
@@ -84849,7 +84849,7 @@ $1(a){return A.a2T(a,this.a.a.c)},
 $S:448}
 A.Pt.prototype={
 V(a){var s=null
-return new A.Cd(new A.K7(s),"IEDC CEMP",A.aI_(s,B.n2,s),s)}}
+return new A.Cd(new A.K7(s),"Technaura",A.aI_(s,B.n2,s),s)}}
 A.ayb.prototype={
 $1(a){var s,r,q,p=null,o=A.aPC(p),n=A.aHS(this.a,p,p),m=A.xz(this.b),l=m.garf(m),k=l.b1(0,"viewBox"),j=A.bK(l,"width",p,p),i=j==null?p:j.gbx()
 j=A.bK(l,"height",p,p)
