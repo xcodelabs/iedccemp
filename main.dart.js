@@ -22946,7 +22946,7 @@ f=A
 e=A
 d=b
 s=4
-return A.V(A.awA("https://ik.imagekit.io/vgh0jdugx/dextra_aecS29_lM.png?ik-sdk-version=javascript-1.4.3&updatedAt=1678285174622"),$async$a1t)
+return A.V(A.awA("https://ik.imagekit.io/vgh0jdugx/dextra_2_RohxYoIld.png?ik-sdk-version=javascript-1.4.3&updatedAt=1678296647199"),$async$a1t)
 case 4:o=f.aQt(new e.awc(d,a2),!1,null,null,B.mS.gapC(),null,null)
 o=new A.Oy(o,new A.awd(b,g,c,a0))
 o.c=A.aQK(n,null,o.gn9())
