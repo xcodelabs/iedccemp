@@ -22852,7 +22852,7 @@ _.d=a
 _.e=b
 _.f=c
 _.w=_.r=""
-_.x="Please enter Your number "
+_.x="Please enter Your name "
 _.a=null
 _.b=d
 _.c=null},
@@ -82550,7 +82550,7 @@ a2=A.cg(c,c,B.H,c,c,c,c,c,c,c,c,17,c,c,B.b5,c,c,!0,c,c,c,c,c,c,c,c)
 a1=t.VO
 a2=A.d3(c,A.QO(c,c,B.ck,c,c,!0,c,A.cn(A.a([A.cn(c,c,"Download "),A.cn(c,A.cg(c,c,new A.J(d),c,c,c,c,c,c,c,c,c,c,c,c,c,c,!0,c,c,c,c,c,c,c,c),"Dextra 2022 "),A.cn(c,c,"Participation Certificate")],a1),a2,c),B.cj,c,c,1,B.bf),c,c,c,c,new A.aO(5,0,5,0),c,c)
 a0=A.em(c,10,c)
-a=A.d3(B.a5,A.dg("Enter your name ,department and semester for Dexta verification",c,c,c,A.cg(c,c,B.A,c,c,c,c,c,c,c,c,12,c,c,B.a0,c,c,!0,c,c,c,c,c,c,c,c),B.cj,c),c,c,c,c,new A.aO(10,0,10,0),c,1/0)
+a=A.d3(B.a5,A.dg("Enter your details for Dexta verification",c,c,c,A.cg(c,c,B.A,c,c,c,c,c,c,c,c,12,c,c,B.a0,c,c,!0,c,c,c,c,c,c,c,c),B.cj,c),c,c,c,c,new A.aO(10,0,10,0),c,1/0)
 p=A.d3(c,A.dg("Enter Name",c,c,c,A.cg(c,c,B.A,c,c,c,c,c,c,c,c,14,c,c,B.a0,c,c,!0,c,c,c,c,c,c,c,c),c,c),c,c,c,c,new A.aO(10,16,0,10),c,1/0)
 o=A.axG(B.rO)
 n=A.tA(10)
@@ -82621,7 +82621,7 @@ r=r.x
 r===$&&A.b()
 r=r.h(0,"Sheet1")
 r.toString
-g.a="No certificate found"
+g.a="certificate not found"
 q=[]
 for(p=1;p<190;++p){o=""+p
 n="B"+o
@@ -82664,13 +82664,13 @@ o===$&&A.b()
 g.a=A.f(o)}}s.au(new A.auP(g,s,q))},
 $S:0}
 A.auM.prototype={
-$0(){this.a.x="Please fill your name"},
+$0(){this.a.x="fill your name"},
 $S:0}
 A.auN.prototype={
-$0(){this.a.x="please select department"},
+$0(){this.a.x="select department"},
 $S:0}
 A.auO.prototype={
-$0(){this.a.x="please select semester"},
+$0(){this.a.x="select semester"},
 $S:0}
 A.auP.prototype={
 $0(){var s=this.b
