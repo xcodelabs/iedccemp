@@ -81968,7 +81968,7 @@ A.ag4.prototype={}
 A.w0.prototype={}
 A.ww.prototype={}
 A.IL.prototype={
-aI(){return new A.a1g(["CS","EEE","EC","ME","CE","POLY"],["S2","S4","S6","S8"],[],["Cricket","batminton (women)","batminton (men)","Table Tennis (women)","Table tennis (men)","Football"],B.o)}}
+aI(){return new A.a1g(["CS","EEE","EC","ME","CE","POLY"],["S2","S4","S6","S8"],[],["Cricket","batminton ","batminton ","Table Tennis ","Table tennis ","Football"],B.o)}}
 A.a1g.prototype={
 aU(){this.be()
 this.A9()},
